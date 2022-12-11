@@ -20,3 +20,4 @@ My GitHub page is http://github.com/Light-Less1.
 
     Lab 12, part 2 was my favorite lab from intro to programming. Here I was able to code my animated image. Animated gifs are so widely used that I was partly interested in how they worked. So I found interest in making an animation through C++. I never realized that the computer worked through columns and rows to generate animated pictures. 
 
+![The gradient image from Lab 10](images/test_output.png)
